@@ -1,6 +1,0 @@
-package com.microservice.celulares.respository;
-
-public interface CelularDao extends CrudResitory<Celular, Long> {
-
-}
-
